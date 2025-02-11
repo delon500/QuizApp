@@ -52,7 +52,7 @@ Ensure you have the following installed:
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone https://github.com/delon500/QuizAap.git
+git clone https://github.com/delon500/QuizApp.git
 cd QuizAap
 ```
 
