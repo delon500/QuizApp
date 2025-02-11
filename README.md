@@ -69,8 +69,13 @@ cd QuizAap
 4. Review past results and track your performance.
 
 ## 📌 Screenshots
-![sign up](sign up.jpg)
-![Login](login.jpg)
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|-------------|-------------|-------------|
+| <img src="sign-up.jpg" alt="App Screenshot" width="300"/>  | <img src="login.jpg" alt="App Screenshot" width="300"/> | <img src="mainmenu.jpg" alt="App Screenshot" width="300"/> |
+
+| Screenshot 4 | Screenshot 5 | Screenshot 6 |
+|-------------|-------------|-------------|
+| <img src="quiz.jpg" alt="App Screenshot" width="300"/>  | <img src="quizResult.jpg" alt="App Screenshot" width="300"/> | <img src="viewScore.jpg" alt="App Screenshot" width="300"/> |
 
 ## 🤝 Contributing
 Contributions are welcome! Follow these steps:
