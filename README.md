@@ -69,7 +69,8 @@ cd QuizAap
 4. Review past results and track your performance.
 
 ## 📌 Screenshots
-[Add images of your app screens here]
+![sign up](sign up.jpg)
+![Login](login.jpg)
 
 ## 🤝 Contributing
 Contributions are welcome! Follow these steps:
